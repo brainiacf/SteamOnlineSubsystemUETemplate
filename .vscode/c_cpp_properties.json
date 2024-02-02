@@ -1,16 +1,7 @@
 {
     "configurations": [
         {
-            "name": "SteamOSEditor Editor Win64 Development (SteamOS)",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++20",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\nemju\\OneDrive\\Desktop\\SteamOS\\SOSUETemplate\\.vscode\\compileCommands_SteamOS.json"
-        },
-        {
             "name": "Win32",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
